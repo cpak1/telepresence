@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/DoubangoTelecom/telepresence) 
+
 Source code freely provided to you by <a href='https://www.doubango.org'> Doubango Telecom ®</a>. This is a good and viable **open source** alternative to Google Hangouts.
 
 
